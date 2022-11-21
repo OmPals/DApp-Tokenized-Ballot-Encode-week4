@@ -1,0 +1,12 @@
+[submodule "TokenizedBallot-week3-encode"]
+	path = TokenizedBallot-week3-encode
+	url = https://github.com/OmPals/TokenizedBallot-week3-encode.git
+	branch = main
+[submodule "tokenized_ballot_minter_backend"]
+	path = tokenized_ballot_minter_backend
+	url = https://github.com/OmPals/tokenized_ballot_minter_backend
+	branch = main
+[submodule "tokenized-ballot-fe-week-4"]
+	path = tokenized-ballot-fe-week-4
+	url = https://github.com/OmPals/tokenized-ballot-fe-week-4
+	branch = main
